@@ -1,0 +1,100 @@
+
+Warehouse Logistics Network
+Warehouses = Purple Customers = Blue
+<img>
+
+
+
+
+=====
+
+I picked 4 warehouses to best divide reach by geography.
+Breinigsville, PA 18031 - I selected this warehouse due to its close proximity to east coast cities.
+Indianapolis, IN 46231 - I selected this location to service customers in the North and Midwest.
+Union City, GA 30291 - I chose this warehouse to best service customers in the South.
+Fort Worth, TX 76155 - I selected this location to serve customers in the West
+
+======
+
+The total transit time to all customers is 14 combined days. Below is a further breakdown:
+
+Customer
+
+Warehouse
+
+Time (Days, per UPS)
+
+New York City, New York
+
+Breinigsville, PA
+
+1
+
+Los Angeles, California
+
+Fort Worth, TX
+
+3
+
+Chicago, Illinois
+
+Indianapolis, IN
+
+1
+
+Dallas, Texas
+
+Fort Worth, TX
+
+1
+
+Houston, Texas
+
+Fort Worth, TX
+
+1
+
+Washington, DC
+
+Breinigsville, PA
+
+1
+
+Philadelphia, Pennsylvania
+
+Breinigsville, PA
+
+1
+
+Miami, Florida
+
+Union City, GA
+
+2
+
+Atlanta, Georgia
+
+Union City, GA
+
+1
+
+Boston, Massachusetts
+
+Breinigsville, PA
+
+2
+
+=====
+
+This logistics network is the best it can be now and for the foreseeable future. Justification to this is that 70% of customers are receiving their orders in just 1 day. 90% are receiving in 2 days or less. The only outlier is the LA customer at 3 days because as of now that is the only customer that far west. You could put a warehouse closer to cut down time, but then you are adding cost just to supply that one customer. So that is a calculated decision that I made. I weighed time vs. cost.
+
+=====
+
+What did you find most surprising in this assignment?
+The low amount of ground transport times to most places within the network.
+
+What was the most difficult part of this assignment?
+Probably tying everything together into one idea.
+
+Which part of the assignment was the most fun?
+Calculating the times of the deliveries.
